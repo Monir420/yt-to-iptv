@@ -1,160 +1,157 @@
 #EXTM3U
 
-#EXTINF:-1,Krishna Vani
-https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8
-
-#EXTINF:-1,EPIC
+#EXTINF:-1 tvg-logo="" tvg-name="EPIC",EPIC
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 
-#EXTINF:-1,FOOD FOOD
+#EXTINF:-1 tvg-logo="" tvg-name="FOOD FOOD",FOOD FOOD
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 
-#EXTINF:-1,BBC World News
+#EXTINF:-1 tvg-logo="" tvg-name="BBC World News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1,NDTV 24×7
+#EXTINF:-1 tvg-logo="" tvg-name="NDTV 24×7",NDTV 24×7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1,NDTV India
+#EXTINF:-1 tvg-logo="" tvg-name="NDTV India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 
-#EXTINF:-1,Ajtak TEZ
+#EXTINF:-1 tvg-logo="" tvg-name="Ajtak TEZ",Ajtak TEZ
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/playlist.m3u8
 
-#EXTINF:-1,Republic Bharat
+#EXTINF:-1 tvg-logo="" tvg-name="Republic Bharat",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 
-#EXTINF:-1,Asianet News
+#EXTINF:-1 tvg-logo="" tvg-name="Asianet News",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
-#EXTINF:-1,ABP News
+#EXTINF:-1 tvg-logo="" tvg-name="ABP News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
-#EXTINF:-1,ABP Majha
+#EXTINF:-1 tvg-logo="" tvg-name="ABP Majha",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 
-#EXTINF:-1,ABP Ananda
+#EXTINF:-1 tvg-logo="" tvg-name="ABP Ananda",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
-#EXTINF:-1,Calcutta News
+#EXTINF:-1 tvg-logo="" tvg-name="Calcutta News",Calcutta News
 https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in.m3u8
 
-#EXTINF:-1,News18 Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="News18 Bangla",News18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 
-#EXTINF:-1,CTVN Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="CTVN Bangla",CTVN Bangla
 https://m-c05-j2apps.s.llnwi.net/hls/7062.CTVN.in.m3u8
 
-#EXTINF:-1,Sanget Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="Sanget Bangla",Sanget Bangla
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
 
-#EXTINF:-1,Orange Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="Orange Bangla",Orange Bangla
 https://m-c18-j2apps.s.llnwi.net/hls/7042.OrangeBangla.in.m3u8
 
-#EXTINF:-1,Tollywood Film
+#EXTINF:-1 tvg-logo="" tvg-name="Tollywood Film",Tollywood Film
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
-#EXTINF:-1,Khushboo Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="Khushboo Bangla",Khushboo Bangla
 https://m-c07-j2apps.s.llnwi.net/hls/1328.KhushbooBangla.in.m3u8
 
-#EXTINF:-1,Aakash _Aath
+#EXTINF:-1 tvg-logo="" tvg-name="Aakash _Aath",Aakash _Aath
 https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
 
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 tvg-logo="" tvg-name="Sony Aath",Sony Aath
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_dvr.m3u8
 
-#EXTINF:-1,ITV Bangla
+#EXTINF:-1 tvg-logo="" tvg-name="ITV Bangla",ITV Bangla
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1,Bangla Channel New York
+#EXTINF:-1 tvg-logo="" tvg-name="Bangla Channel New York",Bangla Channel New York
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,SONY YaY
+#EXTINF:-1 tvg-logo="" tvg-name="SONY YaY",SONY YaY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 
-#EXTINF:-1,SONY WAH
+#EXTINF:-1 tvg-logo="" tvg-name="SONY WAH",SONY WAH
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 
-#EXTINF:-1,Bollywood Classic
+#EXTINF:-1 tvg-logo="" tvg-name="Bollywood Classic",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1,Bollywood TV
+#EXTINF:-1 tvg-logo="" tvg-name="Bollywood TV",Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1,B4U Kadak
+#EXTINF:-1 tvg-logo="" tvg-name="B4U Kadak",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
-#EXTINF:-1,Amar Ujala
+#EXTINF:-1 tvg-logo="" tvg-name="Amar Ujala",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
-#EXTINF:-1,Channel Y
+#EXTINF:-1 tvg-logo="" tvg-name="Channel Y",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
-#EXTINF:-1,Cine Voice
+#EXTINF:-1 tvg-logo="" tvg-name="Cine Voice",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
 
-#EXTINF:-1,CNBC Awaaz
+#EXTINF:-1 tvg-logo="" tvg-name="CNBC Awaaz",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 
-#EXTINF:-1,CNBC TV18
+#EXTINF:-1 tvg-logo="" tvg-name="CNBC TV18",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
-#EXTINF:-1,DD National
+#EXTINF:-1 tvg-logo="" tvg-name="DD National",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
-#EXTINF:-1,DD Sports
+#EXTINF:-1 tvg-logo="" tvg-name="DD Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
-#EXTINF:-1,Janta TV
+#EXTINF:-1 tvg-logo="" tvg-name="Janta TV",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
-#EXTINF:-1,Jhanjar Music
+#EXTINF:-1 tvg-logo="" tvg-name="Jhanjar Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1,Mastiii
+#EXTINF:-1 tvg-logo="" tvg-name="Mastiii",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
-#EXTINF:-1,Mirror Now
+#EXTINF:-1 tvg-logo="" tvg-name="Mirror Now",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-#EXTINF:-1,MNX
+#EXTINF:-1 tvg-logo="" tvg-name="MNX",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:-1,Movies Now
+#EXTINF:-1 tvg-logo="" tvg-name="Movies Now",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1,News 24
+#EXTINF:-1 tvg-logo="" tvg-name="News 24",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
-#EXTINF:-1,News18 Lokmat
+#EXTINF:-1 tvg-logo="" tvg-name="News18 Lokmat",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
-#EXTINF:-1,Prime Canada TV
+#EXTINF:-1 tvg-logo="" tvg-name="Prime Canada TV",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
-#EXTINF:-1,Punjabi TV
+#EXTINF:-1 tvg-logo="" tvg-name="Punjabi TV",Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 
-#EXTINF:-1,RajyaSabha
+#EXTINF:-1 tvg-logo="" tvg-name="RajyaSabha",RajyaSabha
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
-#EXTINF:-1,Times Now HD
+#EXTINF:-1 tvg-logo="" tvg-name="Times Now HD",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1,Pitaara
+#EXTINF:-1 tvg-logo="" tvg-name="Pitaara",Pitaara
 https://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8
 
-#EXTINF:-1,ET Now
+#EXTINF:-1 tvg-logo="" tvg-name="ET Now",ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 
-#EXTINF:-1,Fashion TV
+#EXTINF:-1 tvg-logo="" tvg-name="Fashion TV",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1,Ind TV USA
+#EXTINF:-1 tvg-logo="" tvg-name="Ind TV USA",Ind TV USA
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
 
-#EXTINF:-1,India Today
+#EXTINF:-1 tvg-logo="" tvg-name="India Today",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1,Janta TV
+#EXTINF:-1 tvg-logo="" tvg-name="Janta TV",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
